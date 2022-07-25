@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @pragathiacharya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ About Me
+🤔   Exploring new technologies.
+
+🎓   Studying Information Science and Engineering at NMAM INSTITUTE OF TECHNOLOGY
+
+✍️   Pursuing App Development as hobbies/side hustles.
+
+🛠 Tech Stack
+💻   C++ | Java | Python | C | SQL | 
+
+🌐   HTML | CSS | JavaScript | Bootstrap | Jquery
 
 <!---
 pragathiacharya/pragathiacharya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
