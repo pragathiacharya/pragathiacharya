@@ -3,10 +3,8 @@
 
 🎓   Studying Information Science and Engineering at NMAM INSTITUTE OF TECHNOLOGY
 
-✍️   Pursuing App Development as hobbies/side hustles.
-
 🛠 Tech Stack
-💻   C++ | Java | Python | C | SQL | 
+💻   Python | C | SQL | 
 
 🌐   HTML | CSS | JavaScript | Bootstrap | Jquery
 
